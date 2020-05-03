@@ -9,7 +9,7 @@
   "author": "Amrit",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "body-parser": "^1.18.3",
     "crypto": "^1.0.1",
     "express": "^4.16.4",
